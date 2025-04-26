@@ -1,9 +1,7 @@
 # Pr-ctica-JDBC
 
 Práctica JDBC
-Vence hoy a las 23:59
-•
-Se cierra hoy a las 23:59
+
 Instrucciones
 
 En esta tarea, desarrollará un programa Java que interactúa con la base de datos de un distribuidor de café utilizando JDBC (Java Database Connectivity). Este programa permitirá a los usuarios gestionar los datos de los proveedores y del café de forma eficaz. A continuación se muestran instrucciones detalladas sobre cómo completar cada función de la tarea.
